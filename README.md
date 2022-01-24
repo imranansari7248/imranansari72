@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **imranansari72/imranansari72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true)](https://github.com/imranansari72/imranansari72)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranansari72&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
