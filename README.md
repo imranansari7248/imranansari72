@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranansari72&layout=compact)](https://github.com/imranansari72/imranansari72?style=centerme)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imranansari72&repo=github-readme-stats" />
+</a>
