@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true)](https://github.com/imranansari72/imranansari72?style=centerme)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true)](https://github.com/imranansari72/imranansari72)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranansari72&layout=compact)](https://github.com/imranansari72/imranansari72?style=centerme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranansari72&layout=compact)](https://github.com/imranansari72/imranansari72)
 
 
 
 <a href="https://github.com/imranansari72/imranansari72">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imranansari72&repo=imranansari72" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true" />
 </a>
