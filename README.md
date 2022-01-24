@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/imranansari72/imranansari72">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true" />
+<a href="https://github.com/imranansari72/imranansari72" style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true" />
 </a>
