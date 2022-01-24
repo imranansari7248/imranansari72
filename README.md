@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranansari72&layout=compact)](https://github.com/imranansari72/imranansari72?style=centerme)
 
-img[src$="centerme"] {
+Top Langs[src$="centerme"] {
   display:block;
   margin: 0 auto;
 }
