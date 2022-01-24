@@ -21,9 +21,3 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranansari72&layout=compact)](https://github.com/imranansari72/imranansari72)
-
-
-
-<a href="https://github.com/imranansari72/imranansari72" style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranansari72&show_icons=true" />
-</a>
